@@ -36,9 +36,6 @@ The study identifies transitions between over-coupled, critically coupled, and u
 ##  Authors
 
 - Shoumik Debnath  
-- Co-authors...
-
----
-
-## 📂 Repository Structure
+- Ying Yin Tsui
+- Md. Zahurul Islam
 
